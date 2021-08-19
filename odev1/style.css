@@ -1,0 +1,44 @@
+.carousel-caption{
+    padding-bottom: 150px;
+}
+
+.carousel-img-size{
+    width: 1200px;
+    height: 500px;
+    
+}
+h2{
+    font-family: 'Roboto Mono', monospace;
+}
+.center{
+    text-align: center; 
+    align-items: center;  
+    
+}
+ul{
+    display:inline-block;
+}
+
+
+ol{
+    display: inline-block;
+}
+h4{
+    color: khaki;
+}
+.baslik{
+    padding-top: 50px;
+    text-align: center;
+}
+h6{
+    display: inline;
+    background-color: darkgray;
+    color: white;
+    font-family: monospace;
+}
+
+
+.product-size{
+    width: 225px;
+    height: 225px;
+}
